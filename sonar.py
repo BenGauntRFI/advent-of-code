@@ -1,5 +1,3 @@
-import urllib.request
-
 input = 'inputs/day1_input.txt'
 
 
